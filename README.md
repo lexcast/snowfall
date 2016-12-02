@@ -9,4 +9,4 @@ With apm:
 ```bash
 apm install snowfall
 ```
-Or Settingss ➔ Packages ➔ Search for `snowfall`
+Or Settings ➔ Packages ➔ Search for `snowfall`
