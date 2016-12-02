@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle Snowfall",
+        "command": "snowfall:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Snowfall",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "snowfall:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
