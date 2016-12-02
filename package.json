@@ -1,9 +1,14 @@
 {
   "name": "snowfall",
   "main": "./lib/snowfall",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Snow in your editor",
-  "keywords": ["snow", "snowfall", "winter", "christmas"],
+  "keywords": [
+    "snow",
+    "snowfall",
+    "winter",
+    "christmas"
+  ],
   "repository": "https://github.com/lexcast/snowfall",
   "license": "MIT",
   "engines": {
